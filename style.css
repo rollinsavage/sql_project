@@ -1,0 +1,81 @@
+ body {
+       font-family : verdana, sans-serif;
+       font-size : 12px;
+       color:#000000;
+}
+
+  p {
+       font-family : verdana, sans-serif;
+       font-size : 12px;
+       color:#000000;
+       align="justify";
+}
+
+  td {
+       font-family : verdana, sans-serif;
+       font-size : 14px;
+       color:#000000;
+}
+
+  a {
+       font-family : verdana, sans-serif;
+       color:#000000;
+       text-decoration : none;
+
+}
+
+.c {
+       margin-left : 4px;
+}
+
+.notd {
+       margin-left : 4px;
+       margin-right : 4px;
+       text-align : justify;
+}
+
+.title {
+       font-family : tahoma, sans-serif;
+       font-weight : bold;
+       font-size : 20px;
+       color:white;
+       padding:10px;
+ 
+}
+ 
+
+a.menu {
+   color:white;
+   font-weight : normal;
+   text-decoration:none;
+}
+ 
+p.menu {
+   color:white;
+   font-weight : bold;
+   text-decoration:none;
+}
+
+input {
+	font-size:10px;
+	font-family:default;
+}
+
+select {
+	font-size:10px;
+	font-family:default;
+}
+
+textarea {
+        font-family : verdana, sans-serif;
+	font-size:10px;
+}
+
+
+#menu1 {position:absolute; left:125px; top:179px; z-index:100; filter:alpha(opacity=0)}
+#menu2 {position:absolute; left:125px; top:179px; z-index:100; filter:alpha(opacity=0)}
+#menu3 {position:absolute; left:125px; top:259px; z-index:100; filter:alpha(opacity=0)}
+#menu4 {position:absolute; left:125px; top:259px; z-index:100; filter:alpha(opacity=0)}
+#menu5 {position:absolute; left:125px; top:259px; z-index:100; filter:alpha(opacity=0)}
+#menu6 {position:absolute; left:125px; top:259px; z-index:100; filter:alpha(opacity=0)}
+#menu7 {position:absolute; left:125px; top:259px; z-index:100; filter:alpha(opacity=0)}
